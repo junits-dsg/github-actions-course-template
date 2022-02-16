@@ -1,7 +1,7 @@
 name: GIPHY generator
 
 on:
-  isuues:
+  issues:
     types: [opened, edited]
   pull_request:
     types: [opened, edited]
